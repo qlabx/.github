@@ -1,11 +1,6 @@
-# 👋 Welcome to QLabX
-<div align="center">
-
-## 🚀 QLabX Organization
-
+## Qlabx Organization
 **Building, experimenting, and sharing software projects, ideas, and technologies.**
 
-</div>
 
 ---
 
