@@ -22,7 +22,7 @@ This organization serves as a central workspace for:
 
 ## 📂 Main Projects
 
-### 🚀 qauto
+### 🚀 [qauto](https://github.com/qlabx/qauto)
 
 Research and development repository focused on:
 
@@ -38,7 +38,7 @@ Research and development repository focused on:
 
 ---
 
-### 💰 qmmo
+### 💰 [qmmo](https://github.com/qlabx/qmmo)
 
 Research repository dedicated to exploring and analyzing opportunities related to making money online.
 
