@@ -20,6 +20,43 @@ This organization serves as a central workspace for:
 
 ---
 
+## 📂 Main Projects
+
+### 🚀 qauto
+
+Research and development repository focused on:
+
+- AI Automation Workflows
+- n8n Automation
+- Dify Applications
+- Apache Airflow Pipelines
+- AI Agents & Multi-Agent Systems
+- Workflow Orchestration
+- Productivity & Process Automation
+
+> Goal: Build scalable automation systems powered by AI and modern workflow platforms.
+
+---
+
+### 💰 qmmo
+
+Research repository dedicated to exploring and analyzing opportunities related to making money online.
+
+Topics may include:
+
+- Crypto & Web3 | Binance, ...
+- YouTube Automation | Reup Video,...
+- AI-powered Content Systems
+- Digital Products
+- Online Business Models
+- Growth & Monetization Strategies
+- Market Research & Experiments
+
+> Goal: Research, experiment, and validate scalable online business ideas and digital income models.
+
+---
+
+
 ## 🎯 Mission
 
 QLabX focuses on:
