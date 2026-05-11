@@ -22,6 +22,14 @@ This organization serves as a central workspace for:
 
 ## 📂 Main Projects
 
+### 🚀 [qresearch](https://github.com/qlabx/qresearch)
+
+Research and development repository focused on:
+
+> Goal: Reseach and testing the new techs.
+
+---
+
 ### 🚀 [qauto](https://github.com/qlabx/qauto)
 
 Research and development repository focused on:
